@@ -1,0 +1,23 @@
+{
+  "name": "@lvlte/tsconfig",
+  "version": "0.0.0",
+  "description": "Typescript base config for my projects",
+  "license": "MIT",
+  "author": "Eric Lavault <lvlte.code@gmail.com>",
+  "repository": "lvlte/tsconfig",
+  "exports": "./tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"engines": {
+    "node": ">=18.20"
+	},
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "base",
+    "config",
+    "ts",
+    "configuration"
+  ]
+}
