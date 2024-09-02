@@ -1,6 +1,6 @@
 {
   "name": "@lvlte/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript base config for my projects",
   "license": "MIT",
   "author": "Eric Lavault <lvlte.code@gmail.com>",
