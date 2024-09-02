@@ -1,6 +1,6 @@
 {
   "include": [
-    "src"
+    "${configDir}/src"
   ],
   "compilerOptions": {
     "target": "es2022",
