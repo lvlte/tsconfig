@@ -3,7 +3,7 @@
     "${configDir}/src"
   ],
   "compilerOptions": {
-    "target": "es2022",
+    "target": "esnext",
     "useDefineForClassFields": true,
     "module": "nodenext",
     "moduleResolution": "nodenext",
@@ -20,6 +20,7 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "noFallthroughCasesInSwitch": false
+    "noFallthroughCasesInSwitch": false,
+    "noUncheckedSideEffectImports": true
   }
 }
