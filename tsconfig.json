@@ -3,7 +3,7 @@
     "${configDir}/src"
   ],
   "compilerOptions": {
-    "rootDir": "./src",
+    "rootDir": "${configDir}/src",
     "types": ["node"],
     "target": "esnext",
     "useDefineForClassFields": true,
